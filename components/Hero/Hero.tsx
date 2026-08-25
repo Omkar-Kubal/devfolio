@@ -28,7 +28,7 @@ const Hero = () => {
                 <div className='flex items-center justify-center gap-4'>
                     <Link href="https://github.com/Omkar-Kubal" target='_blank'><Button size="sm">Github <IconBrandGithub className="w-4 h-4" /></Button></Link>
                     <Link href="https://play.google.com/store/apps/dev?id=6048959341454065666&hl=en_IN" target='_blank'><Button size="sm">Play Store <IconBrandGooglePlay className="w-4 h-4" /></Button></Link>
-                    <Link href="https://drive.google.com/file/d/1bn1K54Qvr4alpsn0Z8FCIzc0uNzSjtWa/view?usp=sharing" target='_blank'><Button size="sm" variant="outline">Download CV <IconDownload className="w-4 h-4" /></Button></Link>
+                    <Link href="https://drive.google.com/file/d/1LtJ9zA-qgIFZEbQZMhgZHyVFKk3YgGhq/view?usp=sharing" target='_blank'><Button size="sm" variant="outline">Download CV <IconDownload className="w-4 h-4" /></Button></Link>
                 </div>
             </div>
         </Background>
