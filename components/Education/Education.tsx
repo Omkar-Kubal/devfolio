@@ -4,7 +4,7 @@ import EducationTimeLine from '../EducationTimeLine'
 const items = [
     {
         id: 1,
-        date: "2023 – 2026",
+        date: "March 2026",
         title: "Seth L.U.J & Sir M.V. College of Arts, Commerce & Science",
         description:
             "Bachelor of Science in Computer Science",

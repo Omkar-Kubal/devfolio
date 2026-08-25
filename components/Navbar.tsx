@@ -13,6 +13,7 @@ const Navbar = () => {
         <div className='flex gap-4'>
             <Link href="https://github.com/Omkar-Kubal" target='_blank'><IconBrandGithub className="w-6 h-6" /></Link>
             <Link href="https://www.linkedin.com/in/omkar-kubal-814169253/" target='_blank'><IconBrandLinkedin className="w-6 h-6" /></Link>
+            <Link href="https://play.google.com/store/apps/dev?id=6048959341454065666&hl=en_IN" target='_blank'><IconBrandGooglePlay className="w-6 h-6" /></Link>
         </div>
     </nav>
   )
